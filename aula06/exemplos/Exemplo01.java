@@ -1,3 +1,5 @@
+package exemplos;
+
 // package exemplos;
 
 public class Exemplo01 {

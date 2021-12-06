@@ -1,3 +1,5 @@
+package exercicios;
+
 // package exercicios;
 
     public class Exercicio01 {
